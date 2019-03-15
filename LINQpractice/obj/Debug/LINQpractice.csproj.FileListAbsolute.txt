@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Projects\LINQpractice\LINQpractice\bin\Debug\LINQpractice.exe.config
+\\Mac\Home\Documents\Projects\LINQpractice\LINQpractice\bin\Debug\LINQpractice.exe
+\\Mac\Home\Documents\Projects\LINQpractice\LINQpractice\bin\Debug\LINQpractice.pdb
+\\Mac\Home\Documents\Projects\LINQpractice\LINQpractice\obj\Debug\LINQpractice.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Projects\LINQpractice\LINQpractice\obj\Debug\LINQpractice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\LINQpractice\LINQpractice\obj\Debug\LINQpractice.exe
+\\Mac\Home\Documents\Projects\LINQpractice\LINQpractice\obj\Debug\LINQpractice.pdb
